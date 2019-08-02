@@ -10,7 +10,7 @@ posts =[
 		'author':'Mohit Vadsak',
 		'title':'Blog Post 1',
 		'content':'First Post Content',
-		'date_posted':'April 20, 2018'
+		'date_posted':'April 30, 2018'
 	},
 	{
 		'author':'Milan Vadsak',
